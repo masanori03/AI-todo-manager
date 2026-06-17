@@ -2,13 +2,13 @@
 
 A simple command-line TODO application built with Python and Groq API.
 
-This project allows users to create tasks and uses the Groq API to automatically assign a priority level (High, Medium, or Low) based on the task description.
+This project allows users to create tasks and uses the Groq API to automatically assign a priority level (High, Medium, or Low) based on the task title and task description.
 
 ## Features
 
 * Add TODO tasks from the command line
-* Store tasks in memory using Python lists
-* Automatic AI-based priority assignment
+* Store tasks in json file using Python lists
+* Automatic AI-based priority assignment and sorting
 * Environment variable support with `.env`
 
 ## Technologies Used
@@ -48,9 +48,11 @@ python main.py
 
 ## Future Improvements
 
-* Save tasks to a file
 * Mark tasks as completed
 * Delete tasks
 * Due date support
-* Task sorting and filtering
+* Task filtering
 * Better AI task analysis
+* Build a frontend
+* Connect with Database
+* Deplyment
