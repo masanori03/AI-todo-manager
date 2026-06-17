@@ -1,0 +1,62 @@
+[
+    {
+        "task": "math",
+        "desc": "study math for exam",
+        "priority": "High"
+    },
+    {
+        "task": "reply email",
+        "desc": "reply email for my boss",
+        "priority": "High"
+    },
+    {
+        "task": "meeting",
+        "desc": "meeting with client",
+        "priority": "High"
+    },
+    {
+        "task": "rent",
+        "desc": "pay rent for this month",
+        "priority": "High"
+    },
+    {
+        "task": "pick up food",
+        "desc": "pick up food from mother",
+        "priority": "High"
+    },
+    {
+        "task": "soccer",
+        "desc": "play soccer with my friend",
+        "priority": "Medium"
+    },
+    {
+        "task": "world cup",
+        "desc": "watch world cup game with my friend",
+        "priority": "Medium"
+    },
+    {
+        "task": "clean room",
+        "desc": "tidy up books and clothes",
+        "priority": "Medium"
+    },
+    {
+        "task": "grocery",
+        "desc": "buy ingredients for dinner",
+        "priority": "Medium"
+    },
+    {
+        "task": "change bulb",
+        "desc": "change the bulb of my room",
+        "priority": "Medium"
+    },
+    {
+        "task": "car wash",
+        "desc": "go gas station and wash my car",
+        "priority": "Low"
+    },
+    {
+        "task": "fix chair",
+        "desc": "fix dining chair",
+        "priority": "Low"
+    }
+]
